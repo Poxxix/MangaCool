@@ -28,6 +28,7 @@ App được phân công theo các chức năng cụ thể, đảm bảo chia đ
 ### **Chia theo độ phức tạp của các phần( có thể thêm hoặc bớt sau này)**
 ### Kiên:
 **UI/UX:  Thiết kế các màn hình sơ bộ bằng công cụ như Figma/Adobe XD** 
+
 **Đăng nhập, đăng ký:**
 - Xác thực người dùng 
 - Gọi API đăng nhập, đăng ký từ máy chủ
@@ -51,7 +52,6 @@ App được phân công theo các chức năng cụ thể, đảm bảo chia đ
 
 **Tìm kiếm truyện:**
 - Input tìm kiếm và hiển thị kết quả truyện 
-- Xử lý tìm kiếm thông minh từ khóa người dùng 
 
 ### Thuyết: 
 
@@ -61,6 +61,6 @@ App được phân công theo các chức năng cụ thể, đảm bảo chia đ
 - Tính năng đánh giá sao, comment
  
 **Màn hình đọc truyện:**
-- Cho phép đọc truyện online/offline 
+- Cho phép đọc truyện online (ofline if possible)
 - Tải dữ liệu từng chương từ máy chủ 
-- Lưu tiến độ đọc cho người dùng
+
