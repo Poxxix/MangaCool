@@ -1,9 +1,9 @@
 # MangaCool - Java Project for Mobile 
 # Thành viên
-**Hoàng Trung Kiên - 22DH111778**
-**Vũ Đình Bảo Kha - 22DH111487**
-**Phan Thanh Thuyết - 22DH113591**
-**Nguyễn Hoàng Minh Thi - 20DH111670**
+1. **Hoàng Trung Kiên - 22DH111778**
+2. **Vũ Đình Bảo Kha - 22DH111487**
+3. **Phan Thanh Thuyết - 22DH113591**
+4. **Nguyễn Hoàng Minh Thi - 20DH111670**
 ## Những thứ cần chuẩn bị 
 
 -  Android studio
