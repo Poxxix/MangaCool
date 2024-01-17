@@ -30,7 +30,8 @@ App được phân công theo các chức năng cụ thể, đảm bảo chia đ
 **UI/UX:  Thiết kế các màn hình sơ bộ bằng công cụ như Figma/Adobe XD** 
 **Đăng nhập, đăng ký**
 - Xác thực người dùng 
-- Gọi API đăng nhập, đăng ký từ máy chủ 
+- Gọi API đăng nhập, đăng ký từ máy chủ
+
 **Quản lý tài khoản:**
 - Cho phép cập nhật thông tin cá nhân
 - Quản lý thông tin và lịch sử đọc của người dùng
@@ -45,7 +46,8 @@ App được phân công theo các chức năng cụ thể, đảm bảo chia đ
 **Trang chủ truyện**
 - Hiển thị danh sách truyện mới, hot
 - Hiển thị danh mục theo thể loại truyện 
-- Gọi API lấy danh sách truyện từ máy chủ 
+- Gọi API lấy danh sách truyện từ máy chủ
+
 **Tìm kiếm truyện**
 - Input tìm kiếm và hiển thị kết quả truyện 
 - Xử lý tìm kiếm thông minh từ khóa người dùng 
